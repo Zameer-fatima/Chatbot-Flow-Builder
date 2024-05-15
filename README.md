@@ -1,2 +1,3 @@
-# bitespeed-frontend-task
-live at: https://bitespeed-frontend-task-dusky.vercel.app
+# Assignment BiteSpeed - Frontend Task
+
+Live Link: https://flowbuilder-bitespeed.netlify.app/
